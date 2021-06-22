@@ -1,2 +1,2 @@
 # GithubIntro
-A basic introduction to learn Git and Github
+A Repository to learn the basics of Git and Github
